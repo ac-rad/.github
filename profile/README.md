@@ -1,8 +1,8 @@
-## Robot Assisted Lab Automation for Physical/Chemical Sciences
+## RA^2D: Robotics-assisted Accelerated Discovery
 
-Welcome to the GitHub organization of the Robot Assisted Lab Automation for Physical/Chemical Sciences at the [Acceleration Consortium](https://acceleration.utoronto.ca/).
+Welcome to the GitHub organization of the RA^2D: Robotics-assisted Accelerated Discovery at the [Acceleration Consortium](https://acceleration.utoronto.ca/).
 
-Our mission is to introduce novel robotic & AI solutions to accelerate physical & chemical science discoveries.
+Our mission is to introduce novel robotic & AI solutions to accelerate science discoveries.
 
 ### Collaborating Labs:
 - [the matter lab](https://www.matter.toronto.edu/)
