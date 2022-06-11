@@ -1,6 +1,6 @@
 ## RA^2D: Robotics-assisted Accelerated Discovery
 
-Welcome to the GitHub organization of the RA^2D: Robotics-assisted Accelerated Discovery at the [Acceleration Consortium](https://acceleration.utoronto.ca/).
+Welcome to the GitHub organization of the RA^2D: Robotics-assisted Accelerated Discovery lab at the [Acceleration Consortium](https://acceleration.utoronto.ca/).
 
 Our mission is to introduce novel robotic & AI solutions to accelerate science discoveries.
 
